@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Передайте ссылку как аргумент при запуске файла `main.py`
 
 **Пример запроса (*передаем ссылку для сокращения*):**
-```python
+```
 python3 main.py https://www.google.ru/
 ```
 Ответ:
@@ -36,7 +36,7 @@ python3 main.py https://www.google.ru/
 ```
 
 **Пример запроса (*передаем сокращенную ссылку для вывода количества кликов*):**
-```python
+```
 python3 main.py bit.ly/2v4QN3b
 ```
 Ответ:
